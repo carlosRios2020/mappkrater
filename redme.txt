@@ -1,0 +1,10 @@
+Proyecto consiste en una aplicacion para 
+geolocalizar los huecos en las vias.
+
+
+Equipo
+
+Omar lancheros 
+wilmer martinez
+carlos f rios skinner
+
